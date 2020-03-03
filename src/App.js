@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Hi there, this should work!</h1>
+        <h1>This was changed on feature branch!</h1>
       </header>
     </div>
   );
